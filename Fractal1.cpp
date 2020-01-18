@@ -1,7 +1,7 @@
 #include<iostream>
 #include<graphics.h>
 #include<math.h>
-#include<canvas.h>
+#include "./canvas.h"
 using namespace std;
 #define PI 3.14159265
 
@@ -93,7 +93,7 @@ int main(){
     int gd=0, gm;
     initgraph(&gd, &gm, NULL);
     getch();
-    for(itr=0; itr<11; itr++){
+    for(itr=0; itr<20; itr++){
         cleardevice();
         Fractals F;
         F.Tree(length, angle, itr);

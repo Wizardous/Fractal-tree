@@ -4,7 +4,7 @@
 #include<math.h>
 #include<stdlib.h>
 #include<time.h>
-#include<canvas.h>
+#include"./canvas.h"
 using namespace std;
 #define PI 3.14159265
 
