@@ -93,7 +93,7 @@ int main(){
     int gd=0, gm;
     initgraph(&gd, &gm, NULL);
     getch();
-    for(itr=0; itr<20; itr++){
+    for(itr=0; itr<11; itr++){
         cleardevice();
         Fractals F;
         F.Tree(length, angle, itr);
