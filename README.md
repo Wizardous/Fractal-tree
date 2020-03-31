@@ -13,6 +13,9 @@ You will need to setup this library in Include Dir and also it's reletated lib f
 1. **Fractals1.cpp**
 
   This program is to generate symmetrical Fractal Tree.
+  
+  <img src="/Screenshots/symmetrical.png" width=250> 
+  
   - Input 1: Initial length of Branches.
   - Input 2: Angle of next branch reletive to previous branch.
 <br>
@@ -20,6 +23,9 @@ You will need to setup this library in Include Dir and also it's reletated lib f
 2. **Fractals2.cpp**
 
   This program is to generate asymmetrical Fractal Tree.
+  
+  <img src="/Screenshots/asymmetrical.png" width=250> 
+  
   - Input 1: Initial length of Branches.
 <br>
 
